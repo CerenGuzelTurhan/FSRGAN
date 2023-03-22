@@ -1,0 +1,16 @@
+{
+	"training_num": 100,
+	"validation_num": 20,
+	"test_num": 20,
+	"ratio": 8,
+	"lr_stride": 9,
+	"lr_size": 64,
+	"edge": 8,
+	"image_dir": "images/",
+	"training_dir": "./data/DIV2K_train/",
+	"training_image_dir": "./data/DIV2K_train/",
+	"validation_dir": "validation/",
+	"validation_image_dir": "./data/DIV2K_val/",
+	"test_dir": "test/",
+	"test_image_dir": "./data/DIV2K_test/"
+}
