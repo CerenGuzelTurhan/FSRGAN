@@ -2,7 +2,7 @@
 
 ![Python 3.5](https://img.shields.io/badge/python-3.5-green.svg?style=plastic)
 ![TensorFlow 0.12](https://img.shields.io/badge/tensorflow-0.12-green.svg?style=plastic)
-![cuDNN 6.0](https://img.shields.io/badge/cudnn-6.0-green.svg?style=plas
+![cuDNN 6.0](https://img.shields.io/badge/cudnn-6.0-green.svg?style=plas)
 
 [Our FSRGAN](https://ieeexplore.ieee.org/abstract/document/8404829), based on a popular deep convolutional network (FSRCNN) due to its efficiency in spite of its simple architecture, is presented with generative adversarial training approach combining a discriminative network to the generator.
 
